@@ -42,3 +42,12 @@ Licensed under the Apache License, Version 2.0 (the "License"); you may not use 
 http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
+
+
+#Contributing
+I am not looking for contributors for this project. If you have ideas, feel free to get in touch and let me know. Or if you want to suggest something, feel free to create a pull request with your ideas.
+
+My reason for not looking for contributors is that this grid is my hobby, something I work on in my spare time and enjoy. The design is something of a passion, and I'm bringing the grid into a particular direction. To take on contributors would require overhead of organisation, as well as agreeing direction (both technical implementation and functional requirements).
+
+If you would like to help, then please provide me with guidance and advice. I don't claim to know everything, so welcome others opinions on the direction of the project.
