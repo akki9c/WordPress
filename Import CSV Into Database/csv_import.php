@@ -129,7 +129,7 @@ if($maximum_product_id == NULL)
 else{
 	
 	$p = ($maximum_product_id+1);
-}
+
 while($p<=($count+$maximum_product_id-1))
 {
 		$each_data = $data[($p-$maximum_product_id)-1];
@@ -167,9 +167,10 @@ while($p<=($count+$maximum_product_id-1))
 							}
 					
 					}
+
 					$p++;
 			}
-
+}
 echo "<h1>All Records Are successfully Imported.</h1><br />";
 echo "Number of row inserted="." ".$count." "."<br />";
 echo "Number of column inserted=".($total_field+3)."<br />";
